@@ -11,7 +11,7 @@ This Power BI dashboard analyzes Zomato restaurant data to uncover insights abou
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+Screenshot 2026-06-03 142719.png
 
 ## Key Insights
 - North Indian cuisine is the most popular cuisine.
